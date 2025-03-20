@@ -1,0 +1,29 @@
+
+Sigue los materiales del curso para aprender qué es Git y cómo se trabaja. Realiza las operaciones que se realizan en ella:
+
+Abre una cuenta en Github.
+Instala git y php en tu equipo (o máquina virtual).
+Crea un nuevo repositorio público con nombre pps0-1TuNombre. Clónalo y entras en su directorio.
+Crea un archivo con nombre README y lo añades al proyecto.
+Comprueba el estado. Escribe en él una descripción de la actividad y vuelves a comprobar su estado.
+Crea un archivo con nombre index.php. Introduce el código html para que nos muestre un mensaje de Hola mundo con tu nombre.
+Añade el archivo index.php al proyecto.
+Visualiza el estado del proyecto  (git status)
+Haz un commit.
+Ejecuta php -S 0:8080 para lanzar un servidor con la página html que has creado.
+Puedes acceder a ella en http://localhost:8080
+Modifica el fichero index.php
+Verifica estado del proyecto.
+Refresca navegador para comprobar que ha cambiado.
+Vuelve a la versión anterior del archivo index.php (git restore).
+Vuelve a refrescar navegador para ver como vuelve a versión inicial.
+Para finalizar y ver cómo funcionan los comandos pull y push, haz un push y comprueba cómo han subido los archivos a github.com.
+Modifica el archivo index.php desde la página de github.com y haz un pull y comprueba cómo se ha modificado la página web en nuestro navegador.
+Haz un lista en forma de árbol  (tree -a) del directorio y visualiza el contenido.
+Modifica archivos y trabaja con desahacer cambios, volver a estado anterior, diferencias entre ficheros, borrar ficheros etc. git checkout, git reset, git diff, git rm...
+Investiga la diferente información podemos ver con git log
+Sube tu proyecto a tu página de git.
+Comparte tu proyecto con al menos dos compañeros.
+Vamos ahora una pequeña aplicación que nos va a permitir ver información y avatar subida por nosotros: 
+
+Entrega un documento explicando estos los pasos principales y resultados.
