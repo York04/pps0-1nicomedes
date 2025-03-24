@@ -1,6 +1,6 @@
 <html>
 	<body>
 		<h1>Nicomedes</h1>
-		<p>Hola mundo</P>
+		<p>Modificamos archivo por pagina git</p>
 	</body>
 </html>
